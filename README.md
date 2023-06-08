@@ -28,4 +28,4 @@ I'm  a Computer Engineer 🚀 Highly intrested in web development and a machine 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roshankhatri212&layout=compact&theme=dark)](https://github.com/roshankhari212)</a>
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshankhatri212&" alt="roshankhatri212" /></p>
+<p img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshankhatri212&" alt="roshankhatri212" />
